@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Erika Stadnik.
+- 👀 I’m interested in discovering the human psyche through machine learning and personal data. My dream is to build products that leverage our internet shadow.
+- 🌱 I’m currently learning full stack programming in order to further my skills as a creative technologist.
+- 💞️ I’m looking to collaborate on a creative project.
+- 📫 Reach me on twitter: @erika_stadnik
